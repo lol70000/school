@@ -8,3 +8,4 @@ def bin_zu_dez(bin_zahl):
 
 bin_zu_dez("1011") 
 dez_zu_bin(11)
+print("Hello")
