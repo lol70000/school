@@ -1,0 +1,22 @@
+.box{
+    width:100px;
+    border: 5px solid olivedrab;
+    text-align: center;
+}
+
+.box-1{
+    width: 110px;
+    background-color: chartreuse;
+    border: 5px solid olivedrab;
+    text-align: center;
+}
+
+.button{
+    background-color: chartreuse;
+    border:0px ;
+}
+
+body{
+    background: burlywood;
+    margin:10px;
+}
